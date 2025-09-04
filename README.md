@@ -1,4 +1,4 @@
-# Redux Toolkit TypeScript Example
+# Redux Toolkit Infrastructure
 
 This example shows how to integrate Next.js with [Redux Toolkit](https://redux-toolkit.js.org).
 
